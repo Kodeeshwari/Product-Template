@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+<html lang="en" class="h-100">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title> headphone </title>
+    <link href="https://fonts.googleapis.com/css?family=Poppins" rel="stylesheet">
+    <link rel="stylesheet" href="css/style.css" />
+    <link rel="stylesheet" href="css/bootstrap.min.css" />
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymous"> </head>
+
+<body class="h-100">
+    <header class="position-absolute w-100 header-front">
+        <nav class="navbar navbar-expand-lg">
+            <a class="navbar-brand ml-auto" href="#"> <i class="fas fa-bars text-dark"></i>
+                <!--     <img src="images/nav.svg" width="30" height="30" class="float-right" alt=""/>--></a>
+        </nav>
+    </header>
+    <section class="position-relative h-100 container-fluid bg-light bg-img">
+        <div class="h-100 container">
+            <div class="row h-100 align-items-center pt-4">
+                <div class="col-sm-12 col-md-6 col-lg-4 col-xl-4 h-50">
+                    <div class="font-weight-bold ml-sm-0 mt-3 ml-lg-3"><span>THINKING OF BUYING A HEADPHONE?</span></div>
+                    <h1 class="font-weight-bold text-style mt-3 mb-5 ml-lg-3">HTML Business Templates
+                </h1> <a class="font-weight-bold shopnow ml-sm-0 mt-lg-5 ml-lg-3 py-3 px-5" href="#">Shopping now</a> </div>
+            </div>
+        </div>
+    </section>
+    <section class="position-relative h-60 container-fluid bg-white">
+        <div class="h-100 container">
+            <div class="row h-100">
+                <div class="col-sm-12 col-md-12 col-lg-12 col-xl-12 h-50 mt-5 py-5 bg-white ">
+                    <h2 style="color: #232323">Find a quality and right headphones not easy</h2>
+                    <p class="mt-4 detail">Experience the exact same raised experience as well as incredible audio UHP has actually been delivering to opera house, workshops and also living rooms for 50 years with Business HTML Templates.The headphones are all made by HTML Business Template from thoroughly chosen products such as soft lambskin, cowhide natural leather and also plated aluminium to make certain excellent quality as well as convenience so you could enjoy exceptional flexibility and also craftsmanship.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section class="position-relative h-25 container-fluid bgcolor">
+        <div class="h-100 container">
+            <div class="row h-100 justify-content-center align-items-center">
+                <div class=" text-center col-sm-12 col-md-12 col-lg-12 col-xl-12 h-auto">
+                    <h2 class="py-sm-4" style="color: #ffffff">For Best Offers Contact Our Near BY Shops</h2> </div>
+            </div>
+        </div>
+    </section>
+    <section class="position-relative h-100 container-fluid bg-white">
+        <div class="h-100 container">
+            <div class="row h-100 pt-4">
+                <div class="col-sm-12 col-md-12 col-lg-12 col-xl-12 h-100 mt-5">
+                    <h2 class="mt-3" style="color: #232323">Hottest headphones of the month</h2>
+                    <div class="col-sm-12 col-md-12 col-lg-12 col-xl-12 h-100 mt-3">
+                        <div class="float-left col-sm-12 col-md-4 col-lg-4 col-xl-4 h-100">
+                            <div class="col-12 h-75 p-2">
+                                <div class="h-50 p-0" style="background-image: url(images/1.jpg);background-size: cover;   background-position: center;"></div>
+                                <div class="h-50" style="background-color: 
+#fac769">
+                                    <h6 class="py-2 px-2 font-weight-bold text-dark">HEADPHONES</h6>
+                                    <p class="px-2 text-white" style="font-size: 17px">Experience the exact same elevated experience and also amazing audio UHP has actually been providing to auditorium, workshops and also living rooms for 50 years with HTML Business Templates.</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="float-left col-sm-12 col-md-4 col-lg-4 col-xl-4 h-100">
+                            <div class="col-12 h-75 p-2">
+                                <div class="h-50 p-0" style="background-image: url(images/2.jpg);background-size: cover;   background-position: center;"></div>
+                                <div class="h-50" style="background-color: 
+#fac769">
+                                    <h6 class="py-2 px-2 font-weight-bold text-dark">HEADPHONES</h6>
+                                    <p class="px-2 text-white" style="font-size: 17px">Experience the exact same elevated experience and also amazing audio UHP has actually been providing to auditorium, workshops and also living rooms for 50 years with HTML Business Templates.</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="float-left col-sm-12 col-md-4 col-lg-4 col-xl-4 h-100">
+                            <div class="col-12 h-75 p-2">
+                                <div class="h-50 p-0" style="background-image: url(images/3.jpg);background-size: cover;   background-position: center;"></div>
+                                <div class="h-50" style="background-color: 
+#fac769">
+                                    <h6 class="py-2 px-2 font-weight-bold text-dark">HEADPHONES</h6>
+                                    <p class="px-2 text-white" style="font-size: 17px">Experience the exact same elevated experience and also amazing audio UHP has actually been providing to auditorium, workshops and also living rooms for 50 years with HTML Business Templates.</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section class="position-relative h-100 container-fluid bg-white">
+        <div class="h-100 container">
+            <div class="row h-100 pt-4">
+                <div class="col-sm-12 col-md-12 col-lg-12 col-xl-12 h-auto mt-4">
+                    <h2 class="mt-3" style="color: #232323">
+        Meet Our New Headphones🔥</h2>
+                    <div class="col-sm-12 col-md-12 col-lg-12 col-xl-12 h-75 mt-5">
+                        <div class="float-left col-sm-12 col-md-6 col-lg-3 col-xl-3 h-50">
+                            <div class="col-12 h-100 p-2" style="background-image: url(images/h1.jpg);background-position: center;background-size: cover;"></div>
+                        </div>
+                        <div class="float-left col-sm-12 col-md-6 col-lg-3 col-xl-3 h-50">
+                            <div class="col-12 h-100 p-2" style="background-image: url(images/h2.jpg);background-position: center;background-size: cover;"></div>
+                        </div>
+                        <div class="float-left col-sm-12 col-md-6 col-lg-3 col-xl-3 h-50">
+                            <div class="col-12 h-100 p-2" style="background-image: url(images/h3.jpg);background-position: center;background-size: cover;"></div>
+                        </div>
+                        <div class="float-left col-sm-12 col-md-6 col-lg-3 col-xl-3 h-50">
+                            <div class="col-12 h-100 p-2" style="background-image: url(images/h4.jpg);background-position: center;background-size: cover;"></div>
+                        </div>
+                        <div class="float-left col-sm-12 col-md-6 col-lg-3 col-xl-3 h-50 mt-4">
+                            <div class="col-12 h-100 p-2" style="background-image: url(images/h3.jpg);background-position: center;background-size: cover;"></div>
+                        </div>
+                        <div class="float-left col-sm-12 col-md-6 col-lg-3 col-xl-3 h-50 mt-4">
+                            <div class="col-12 h-100 p-2" style="background-image: url(images/h1.jpg);background-position: center;background-size: cover;"></div>
+                        </div>
+                        <div class="float-left col-sm-12 col-md-6 col-lg-3 col-xl-3 h-50 mt-4">
+                            <div class="col-12 h-100 p-2" style="background-image: url(images/h4.jpg);background-position: center;background-size: cover;"></div>
+                        </div>
+                        <div class="float-left col-sm-12 col-md-6 col-lg-3 col-xl-3 h-50 mt-4">
+                            <div class="col-12 h-100 p-2" style="background-image: url(images/h2.jpg);background-position: center;background-size: cover;"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section class="position-relative h-25 container-fluid bgcolor">
+        <div class="h-100 container">
+            <div class="row h-100 justify-content-center align-items-center">
+                <div class=" text-left col-sm-12 col-md-12 col-lg-12 col-xl-12 h-100">
+                    <h6 class="mt-5 ml-lg-5 mt-0 font-weight-light" style="color: #ffffff">HURRY UP! THE OFFER IS LIMITED</h6> <span class="font-weight-bold shopnow ml-sm-0 mr-5 ml-lg-5 py-3 px-5 float-right">Learn More</span>
+                    <h2 class="ml-lg-5 mt-3" style="color: #ffffff">Like it? Pre-order and get a discount
+                    </h2> </div>
+            </div>
+        </div>
+    </section>
+    <section class="h-100 container-fluid bg-danger">
+        <div class="h-100 container">
+            <div class="row h-100 justify-content-center">
+                <h2 class="mt-5">Why do you have to buy headphones only for us?</h2>
+                <div class="col-sm-12 col-md-12 col-lg-12 col-xl-12 h-75 bg-primary">
+                    <div class="float-left h-100 col-sm-12 col-md-6 col-lg-3 col-xl-3 bg-dark">
+                        <div class="w-100 h-100 p-2 bg-success">
+                            <div class="w-100 h-25">
+                                <span style="float: left;color: #fac769;font-size: 90px" class="font-weight-bold">01</span><span style="width: 15px;height: 15px;background-color:#fac769;float: left;margin-top: 88px;"></span>
+                                
+                            </div>
+                            <div class="mt-4 w-100 h-75">
+                                <P style="color: #767a82;font-size: 20px">This is songs with no restrictions. Surrender to HTML Business Template exceptional sound wrapped in timeless style.</P>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="float-left h-100 col-sm-12 col-md-6 col-lg-3 col-xl-3 bg-white"></div>
+                    <div class="float-left h-100 col-sm-12 col-md-6 col-lg-3 col-xl-3 bg-dark"></div>
+                    <div class="float-left h-100 col-sm-12 col-md-6 col-lg-3 col-xl-3 bg-white"></div>
+                </div>
+            </div>
+        </div>
+    </section>
+</body>
+
+</html>
