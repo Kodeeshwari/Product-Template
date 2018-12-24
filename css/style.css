@@ -24,10 +24,11 @@ body {
     border-radius: 30px;
 }
 
-.shopnow:hover{
+.shopnow:hover {
     color: #5f5f5f;
     text-decoration: none;
 }
+
 .detail {
     font-size: 18px;
     font-weight: 400;
@@ -38,5 +39,16 @@ body {
     background-color: #fac769;
 }
 
+.title {
+    font-size: 60pt;
+    color: #fac769;
+}
 
+.learnmore {
+    color: #fac769;
+    font-size: 14pt;
+}
 
+.txt-css {
+    
+}
